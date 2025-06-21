@@ -76,7 +76,7 @@ packaging==21.3
     # via google-api-core
 proto-plus==1.20.3
     # via google-cloud-monitoring
-protobuf==3.20.1
+protobuf==4.25.8
     # via
     #   -r requirements.in
     #   google-api-core
@@ -122,7 +122,7 @@ six==1.15.0
     #   grpcio
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.9
+urllib3==2.5.0
     # via
     #   -r requirements.in
     #   requests
